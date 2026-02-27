@@ -68,5 +68,14 @@ Our goals are to:
 
 - Only participants eligible for mortality linkage (`ELIGSTAT == 1`) are included in modeling.  
 - Dietary recall data is merged using a left join to retain the full mortality-eligible sample.  
-- Missing values are handled explicitly during preprocessing.  
+- Missing values are handled explicitly during preprocessing.
+
+## Work Distributiob
+- EDA and Wrangling - Yusuf and Mustafa
+- KNN - Mustafa and Thomas 
+
+## AI Acknowledgement
+
+- AI (Claude, ChatGPT 5.2. and Gemini) was used to help with coding, formatting, structure, and checking work. AI usage is properly cited where needed. AI was used to help create and structure the README.
+  
 ```
