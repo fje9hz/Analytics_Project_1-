@@ -43,10 +43,10 @@ Our goals are to:
 
 ## Repository Structure  
 
-- `notebook1_part1_wrangling_eda.ipynb`  
+- `notebook1_wrangling_eda.ipynb`  
   Data loading, merging, cleaning, missing value analysis, and exploratory analysis  
 
-- `notebook2_part2_knn.ipynb`  
+- `notebook2_knn.ipynb`  
   KNN classification for mortality and KNN regression for follow-up time  
 
 - `data/`  
