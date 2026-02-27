@@ -70,7 +70,7 @@ Our goals are to:
 - Dietary recall data is merged using a left join to retain the full mortality-eligible sample.  
 - Missing values are handled explicitly during preprocessing.
 
-## Work Distributiob
+## Work Distribution
 - EDA and Wrangling - Yusuf and Mustafa
 - KNN - Mustafa and Thomas 
 
